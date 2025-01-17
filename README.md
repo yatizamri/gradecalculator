@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include <iomanip> // For formatting output
 int main() {
